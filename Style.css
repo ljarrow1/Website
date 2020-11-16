@@ -1,4 +1,30 @@
 
 body {
-  background-color: light Blue;
+  background-color: powderblue;
+  color: DarkSlateBlue;
+}
+h1 {
+  background-color: lightsteelblue;
+}
+h2 {
+  color: white;
+}
+p {
+  font-size: Arial;
+  color: Black;
+}
+section h1 {
+  color: black;
+}
+section h2 {
+  color: DarkSlateBlue;
+}
+ol {
+  color: Royalblue;
+}
+ul {
+  color: Royalblue;
+}
+footer p {
+  color: maroon;
 }
