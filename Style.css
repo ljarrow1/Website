@@ -1,20 +1,36 @@
 
+/* Add more pictures */
+* {
+  font-size: 100%;
+}
+body {
+  background-color: grey;
+  color: black;
+}
 body {
   background-color: powderblue;
   color: DarkSlateBlue;
 }
 h1 {
   background-color: lightsteelblue;
+  font-size: 36px;
 }
 h2 {
   color: white;
 }
+h2 {
+  color: maroon;
+}
 p {
   font-family: Arial;
   color: Black;
+  font-size: 14px;
 }
 section h1 {
   color: black;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
 }
 section h2 {
   color: DarkSlateBlue;
@@ -25,6 +41,6 @@ ol {
 ul {
   color: Royalblue;
 }
-footer p {
+/footer p {
   color: maroon;
 }
