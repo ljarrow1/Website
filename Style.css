@@ -10,10 +10,12 @@ body {
 body {
   background-color: powderblue;
   color: DarkSlateBlue;
+  text-align: center;
 }
 h1 {
   background-color: lightsteelblue;
   font-size: 36px;
+  border: 3px solid Royalblue;
 }
 h2 {
   color: white;
@@ -31,16 +33,22 @@ section h1 {
   font-size: 18px;
   font-weight: bold;
   font-style: italic;
+  line-height: 1;
 }
 section h2 {
   color: DarkSlateBlue;
 }
 ol {
   color: Royalblue;
+  text-align: left;
 }
 ul {
   color: Royalblue;
+  text-align: left;
 }
 /footer p {
   color: maroon;
+}
+img {
+  width: 100%;
 }
