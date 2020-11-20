@@ -4,11 +4,11 @@
   font-size: 100%;
 }
 body {
-  background-color: grey;
-  color: black;
+    background-image: url(Images/IMG_0444.jpg);
+    background-size: 140%;
 }
+
 body {
-  background-color: powderblue;
   color: DarkSlateBlue;
   text-align: center;
 }
@@ -21,7 +21,7 @@ h2 {
   color: white;
 }
 h2 {
-  color: maroon;
+  color: black;
 }
 p {
   font-family: Arial;
@@ -36,19 +36,20 @@ section h1 {
   line-height: 1;
 }
 section h2 {
-  color: DarkSlateBlue;
+  color: Black;
+}
+section h3 {
+  color: white;
+  text-align: left;
 }
 ol {
-  color: Royalblue;
+  color: white;
   text-align: left;
 }
 ul {
-  color: Royalblue;
+  color: white;
   text-align: left;
 }
 /footer p {
-  color: maroon;
-}
-img {
-  width: 100%;
+  color: Black;
 }
